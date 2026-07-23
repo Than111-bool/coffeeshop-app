@@ -48,7 +48,7 @@ function Menu (){
                         className="w-full h-56 object-cover"/>
                     <div><h2 className="text-2xl font-bold">{item.name}</h2>
                     <p className="mt-3 text-xl font-semibold text-amber-700">{item.price}</p>
-                    <button className="mt-5  w-full rounded-lg bg-amber-900 py-2 text-white hover:bg-amber-800">Order Now</button>
+                    <button className="mt-5  w-full rounded-lg bg-amber-900 py-2 text-white hover:bg-amber-800 cursor-pointer">Order Now</button>
                     </div>
                     </div>
                 ))}

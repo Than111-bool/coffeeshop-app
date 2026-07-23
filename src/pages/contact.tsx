@@ -15,27 +15,27 @@ function Contact() {
         <h2 className="mb-4  text-2xl font-semibold">
             Contact Information</h2>
          <div className="space-y-4">
-        <p><span className="font-bold">🚏Address:</span>Yangon,Myanmar</p>
+        <p className="text-sm text-red-300"><span className="font-bold text-green-400">🚏Address:</span>Yangon,Myanmar</p>
 
-        <p><span className="font-bold">📞Phone:</span>09 123 456 789</p>
+        <p className="text-sm text-red-300"><span className="font-bold text-green-400">📞Phone:</span>09 797811663</p>
 
-        <p><span className="font-bold">📧Email:</span> info@mysite.com</p>
+        <p className="text-sm text-red-300"><span className="font-bold text-green-400">📧Email:</span> nyein.com</p>
         </div>
         </div>
-        <form className="space-y-4">
+        <form className="space-y-4 text-pink-300">
         <input
          type="text"
          placeholder="Your Message"
-         className="w-full border p-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-amber-500"></input>
+         className="w-full border p-3 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"></input>
 
          <textarea
            rows={5}
            placeholder="submit"
-           className="w-full border rounded-lg focus:outlinne-none focus:ring-2 focus:ring-amber-500"></textarea>
+           className="w-full border rounded-lg focus:outlinne-none focus:ring-2 focus:ring-blue-500"></textarea>
 
         <button
          type="submit"
-         className="rounded-lg bg-amber-600 w-full font-semibold hover:bg-amber-700 py-3 text-white"
+         className="rounded-lg bg-blue-600 w-full font-semibold hover:bg-blue-300 py-3 text-white"
          
          >Send Message</button>
          </form>
