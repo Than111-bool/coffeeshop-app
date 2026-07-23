@@ -17,10 +17,10 @@ function About () {
             , high-quality coffee in a warn and welcoming environment.
         </p>
         <p className="mb-4 leaing-8 text-lg text-gray-700">We carefully select premium coffee beans from trusted farms and prepare every cup
-            with passion. Whether you enjoy Espresso , latte , Cappuccino , or Cold Brew,
+            with passion. Whether you enjoy Espresso , Latte , Cappuccino , or Cold Brew,
             we have something special for everyone.
         </p>
-        <p className="mb-6 leading-8 text-lg text-gray-700">
+        <p className="mb-6 leading-8 text-bold text-3xl text-gray-700">
             Thank you for choosing us. We look forward to serving  you your next perfect cup of coffee.
             </p>
         <button
