@@ -7,7 +7,7 @@ function Home() {
 
         
         <div className="md:w-1/2">
-          <h1 className="mb-6 text-5xl font-bold text-amber-900">
+          <h1 className="mb-6 text-6xl text-bold font-bold text-amber-900">
             Welcome to <br />
             Coffee Shop ☕
           </h1>
